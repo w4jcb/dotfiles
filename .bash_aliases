@@ -38,7 +38,6 @@ alias c='clear'
 alias r='reset'
 alias vi='nvim'
 
-
 # others
 alias brc='source ~/.bashrc' # reloads ~/.bashrc file
 alias ghistory="history | grep"
@@ -46,7 +45,6 @@ alias port='netstat -tulanp'
 alias listen="lsof -P -i -n"
 alias ?='man' #haha
 alias lc='locate'
-
 
 alias f='file'
 alias s='stat'
@@ -60,15 +58,8 @@ alias rm='rm -i'
 alias mv='mv -i'
 alias cp='cp -i'
 
-
-
 # Just for fun
 alias hi='echo "Hello World"'
 
-
-
 # Setting my bin to the path
 export PATH="/home/carlton/bin:$PATH"
-
-
-
