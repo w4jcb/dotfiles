@@ -63,3 +63,5 @@ alias hi='echo "Hello World"'
 
 # Setting my bin to the path
 export PATH="/home/carlton/bin:$PATH"
+
+PROMPT_DIRTRIM=1
